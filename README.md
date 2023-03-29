@@ -2,9 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=ThanhTung-Nguyen&color=brightgreen)
 [![GitHub followers](https://img.shields.io/github/followers/ThanhTung-Nguyen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ThanhTung-Nguyen?tab=followers)
-
+- I'm learning to become a web front-end developer
+- Maybe I also like singing
 - 📫 How to reach me **ntung.it312@gmail.com**
-<h3 align="center"> 🤝🏻 Connect with Me </h3>
+
 
 
 <h3 align="left">I'm learning:</h3>
